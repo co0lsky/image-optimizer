@@ -9,7 +9,7 @@ interface Optimizer
      *
      * @return string
      */
-    public function binaryName(): string;
+    public function binaryName();
 
     /**
      * Determines if the given image can be handled by the optimizer.
@@ -18,7 +18,7 @@ interface Optimizer
      *
      * @return bool
      */
-    public function canHandle(Image $image): bool;
+    public function canHandle(Image $image);
 
     /**
      * Set the path to the image that should be optimized.
@@ -27,7 +27,7 @@ interface Optimizer
      *
      * @return $this
      */
-    public function setImagePath(string $imagePath);
+    public function setImagePath($imagePath);
 
     /**
      * Set the options the optimizer should use.
@@ -36,12 +36,12 @@ interface Optimizer
      *
      * @return $this
      */
-    public function setOptions(array $options = []);
+    public function setOptions($options = []);
 
     /**
      * Get the command that should be executed.
      *
      * @return string
      */
-    public function getCommand(): string;
+    public function getCommand();
 }

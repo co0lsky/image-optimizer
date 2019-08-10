@@ -10,7 +10,7 @@ use Spatie\ImageOptimizer\Optimizers\Jpegoptim;
 
 class OptimizerChainFactory
 {
-    public static function create(): OptimizerChain
+    public static function create()
     {
         return (new OptimizerChain())
             ->addOptimizer(new Jpegoptim([
