@@ -1,17 +1,17 @@
 {
-    "name": "spatie/image-optimizer",
-    "description": "Easily optimize images using PHP",
+    "name": "co0lsky/image-optimizer",
+    "description": "Easily optimize images using PHP 5.6",
     "keywords": [
         "spatie",
         "image-optimizer"
     ],
-    "homepage": "https://github.com/spatie/image-optimizer",
+    "homepage": "https://github.com/co0lsky/image-optimizer",
     "license": "MIT",
     "authors": [
         {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "homepage": "https://spatie.be",
+            "name": "Sky Chin",
+            "email": "sky4just@gmail.com",
+            "homepage": "http://www.skychin.me",
             "role": "Developer"
         }
     ],
