@@ -1,8 +1,8 @@
 <?php
 
-namespace Spatie\ImageOptimizer\Test;
+namespace SkyChin\ImageOptimizer\Test;
 
-use Spatie\ImageOptimizer\Optimizers\Jpegoptim;
+use SkyChin\ImageOptimizer\Optimizers\Jpegoptim;
 
 class OptimizerTest extends TestCase
 {

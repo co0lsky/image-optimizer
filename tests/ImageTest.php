@@ -1,9 +1,9 @@
 <?php
 
-namespace Spatie\ImageOptimizer\Test;
+namespace SkyChin\ImageOptimizer\Test;
 
 use InvalidArgumentException;
-use Spatie\ImageOptimizer\Image;
+use SkyChin\ImageOptimizer\Image;
 
 class ImageTest extends TestCase
 {

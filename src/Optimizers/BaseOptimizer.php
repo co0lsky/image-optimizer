@@ -1,8 +1,8 @@
 <?php
 
-namespace Spatie\ImageOptimizer\Optimizers;
+namespace SkyChin\ImageOptimizer\Optimizers;
 
-use Spatie\ImageOptimizer\Optimizer;
+use SkyChin\ImageOptimizer\Optimizer;
 
 abstract class BaseOptimizer implements Optimizer
 {

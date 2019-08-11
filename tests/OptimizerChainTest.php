@@ -1,11 +1,11 @@
 <?php
 
-namespace Spatie\ImageOptimizer\Test;
+namespace SkyChin\ImageOptimizer\Test;
 
-use Spatie\ImageOptimizer\OptimizerChain;
-use Spatie\ImageOptimizer\Optimizers\Optipng;
-use Spatie\ImageOptimizer\Optimizers\Pngquant;
-use Spatie\ImageOptimizer\Optimizers\Jpegoptim;
+use SkyChin\ImageOptimizer\OptimizerChain;
+use SkyChin\ImageOptimizer\Optimizers\Optipng;
+use SkyChin\ImageOptimizer\Optimizers\Pngquant;
+use SkyChin\ImageOptimizer\Optimizers\Jpegoptim;
 
 class OptimizerChainTest extends TestCase
 {

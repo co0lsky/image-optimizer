@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\ImageOptimizer;
+namespace SkyChin\ImageOptimizer;
 
 use Psr\Log\LoggerInterface;
 use Symfony\Component\Process\Process;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\ImageOptimizer\Test;
+namespace SkyChin\ImageOptimizer\Test;
 
 use Psr\Log\LoggerInterface;
 

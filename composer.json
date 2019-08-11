@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\ImageOptimizer\\": "src"
+            "SkyChin\\ImageOptimizer\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\ImageOptimizer\\Test\\": "tests"
+            "SkyChin\\ImageOptimizer\\Test\\": "tests"
         },
         "files": [
             "tests/helpers.php"

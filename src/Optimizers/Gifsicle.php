@@ -1,8 +1,8 @@
 <?php
 
-namespace Spatie\ImageOptimizer\Optimizers;
+namespace SkyChin\ImageOptimizer\Optimizers;
 
-use Spatie\ImageOptimizer\Image;
+use SkyChin\ImageOptimizer\Image;
 
 class Gifsicle extends BaseOptimizer
 {
